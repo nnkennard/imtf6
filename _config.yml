@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: I Miss That Food!
-tagline: Recipes from Karen
-email: imissthatfood@gmail.com
+title: Bulma Clean Theme
+tagline: Bulma Clean Theme
+email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/imtf6"
-url: "https://nnkennard.github.io"
+baseurl: "/bulma-clean-theme"
+url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
